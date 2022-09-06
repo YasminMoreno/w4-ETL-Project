@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:00;;Mostly Sunny;18;2;34;VRB 2;1026;11;;2022-1-1;Madrid
+16:00;;Mostly Sunny;17;3;39;ENE 22;1024;11;;2022-2-1;Madrid
+16:00;;Mostly Sunny;17;3;39;SW 17;1022;11;;2022-3-1;Madrid
+16:00;;Mostly Cloudy;9;-5;37;WNW 17;1015;48;;2022-4-1;Madrid
+16:00;;Mostly Sunny;23;8;38;SW 22;1013;11;;2022-5-1;Madrid
+16:00;;Mostly Sunny;28;8;28;SW 15;1011;48;;2022-6-1;Madrid
+16:00;;Mostly Sunny;31;6;21;SSE 13;1011;11;;2022-7-1;Madrid
+16:00;;Mostly Sunny;37;8;17;VRB 9;1010;48;;2022-8-1;Madrid
+16:00;;Mostly Sunny;30;4;19;SW 17;1010;10;0.0;2022-9-1;Madrid

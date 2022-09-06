@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:00;;Mostly Sunny;6;-15;21;NNW 15;1020;48;;2022-1-1;Tokyo
+16:00;;Mostly Sunny;9;-3;43;ESE 6;1012;48;;2022-2-1;Tokyo
+16:00;;Mostly Cloudy;16;4;45;WSW 19;1008;48;;2022-3-1;Tokyo
+16:00;;Mostly Sunny;12;-10;21;NNW 20;1021;48;;2022-4-1;Tokyo
+16:00;;Mostly Cloudy with Light Showers;13;12;94;NNW 11;1007;4;;2022-5-1;Tokyo
+16:00;;Mostly Sunny;24;13;50;S 9;1007;48;;2022-6-1;Tokyo
+16:00;;Mostly Sunny;30;25;75;S 20;1013;48;;2022-7-1;Tokyo
+16:00;;Mostly Sunny;31;26;75;S 20;1011;48;;2022-8-1;Tokyo
+16:00;;Partly Cloudy;28;26;89;S 15;1010;10;0.0;2022-9-1;Tokyo

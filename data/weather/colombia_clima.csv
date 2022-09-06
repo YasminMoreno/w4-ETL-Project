@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:00;;Mostly Cloudy;19;11;60;VRB 4;1001;48;;2022-1-1;Bogota
+16:00;;Partly Cloudy;18;9;56;WNW 24;1001;48;;2022-2-1;Bogota
+16:00;;Mostly Cloudy with Showers Nearby;15;12;82;VRB 4;1006;48;;2022-3-1;Bogota
+16:00;;Partly Cloudy;18;12;68;NW 19;1002;48;;2022-4-1;Bogota
+16:00;;Partly Cloudy;19;9;52;SSE 19;1002;48;;2022-5-1;Bogota
+16:00;;Mostly Cloudy;16;9;63;NE 15;1005;48;;2022-6-1;Bogota
+16:00;;Partly Cloudy;18;13;73;WSW 19;1002;9;;2022-7-1;Bogota
+16:00;;Partly Cloudy;17;12;73;WSW 13;1003;48;;2022-8-1;Bogota
+16:00;;Partly Cloudy with Drizzle;16;12;77;WSW 19;1004;8;0.0;2022-9-1;Bogota

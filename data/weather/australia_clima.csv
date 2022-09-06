@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:00;;Mostly Sunny;30;12;33;N 15;1006;48;;2022-1-1;Canberra
+16:00;;Mostly Sunny;28;18;55;NW 24;998;48;;2022-2-1;Canberra
+16:00;;Mostly Cloudy;21;15;69;E 31;1011;48;;2022-3-1;Canberra
+16:00;;Cloudy;16;5;48;S 31;1018;48.0;;2022-4-1;Canberra
+16:00;;Mostly Sunny;16;6;52;NW 11;1020;48;;2022-5-1;Canberra
+16:00;;Partly Cloudy;7;1;66;WNW 28;1011;48;;2022-6-1;Canberra
+16:00;;Cloudy with Light Rain;7;7;100;S 11;1026;48;;2022-7-1;Canberra
+16:00;;Mostly Cloudy;11;2;54;NNW 28;1015;48;;2022-8-1;Canberra
+16:00;;Mostly Cloudy;16;5;48;NNW 20;1019;10;0.0;2022-9-1;Canberra

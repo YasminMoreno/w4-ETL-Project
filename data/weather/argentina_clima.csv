@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:00;;Mostly Cloudy;23;20;83;NNE 15;1004;48;;2022-1-1;Buenos Aires
+16:00;;Mostly Sunny;26;16;54;NNE 11;1010;11;;2022-2-1;Buenos Aires
+16:00;;Mostly Sunny;25;14;51;N 20;1011;11;;2022-3-1;Buenos Aires
+16:00;;Mostly Sunny;19;9;52;ENE 11;1025;11;;2022-4-1;Buenos Aires
+16:00;;Mostly Sunny;18;5;43;SSE 13;1017;11;;2022-5-1;Buenos Aires
+16:00;;Mostly Sunny;12;2;51;N 9;1021;9;;2022-6-1;Buenos Aires
+16:00;;Cloudy;12;9;82;NNE 11;1006;48;;2022-7-1;Buenos Aires
+16:00;;Mostly Sunny;16;9;63;E 15;1017;11;;2022-8-1;Buenos Aires
+16:00;;Sunny;16;14;88;N 6;1011;9;0.0;2022-9-1;Buenos Aires

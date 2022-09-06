@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:33;;Cloudy;15.0;13.9;93;E 6;1004;13;0.0;2022-1-1;Washington D.C
+16:52;;Partly Cloudy;4.4;-3.9;55;ESE 13;1031;16;0.0;2022-2-1;Washington D.C
+16:52;;Mostly Cloudy;12.8;0.6;44;S 13;1015;16;0.0;2022-3-1;Washington D.C
+16:52;;Partly Cloudy;12.2;-2.8;35;WNW 28;1011;16;0.0;2022-4-1;Washington D.C
+16:52;;Cloudy;15.0;11.1;78;E 11;1017;16;0.0;2022-5-1;Washington D.C
+16:52;;Mostly Cloudy;33.9;17.8;38;WSW 11;1010;16;0.0;2022-6-1;Washington D.C
+16:52;;Cloudy;31.7;21.1;53;S 20;1016;16;0.0;2022-7-1;Washington D.C
+16:52;;Partly Cloudy;31.7;18.9;47;W 9;1013;16;0.0;2022-8-1;Washington D.C
+16:52;;Mostly Sunny;31.7;12.8;32;NW 15;1015;16;0.0;2022-9-1;Washington D.C

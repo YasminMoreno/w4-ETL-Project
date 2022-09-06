@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:20;;Mostly Cloudy;12;10;88;WSW 15;1023;48.0;;2022-1-1;Berlin
+16:20;;Mostly Cloudy with Light Rain;2;1;93;SW 37;1000;5;;2022-2-1;Berlin
+16:20;;Mostly Sunny;7;-7;37;S 11;1030;11;;2022-3-1;Berlin
+16:20;;Mostly Sunny;7;-10;29;NE 31;1005;11;;2022-4-1;Berlin
+16:20;;Mostly Sunny;15;2;42;N 20;1021;48;;2022-5-1;Berlin
+16:20;;Mostly Sunny;18;7;49;WNW 22;1012;11;;2022-6-1;Berlin
+16:20;;Mostly Cloudy;18;14;78;W 28;1016;48;;2022-7-1;Berlin
+16:20;;Partly Cloudy with Showers Nearby;24;15;57;WNW 19;1015;48;;2022-8-1;Berlin
+16:20;;Mostly Sunny;21;7;40;NE 17;1022;10;0.0;2022-9-1;Berlin

@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:00;;Mostly Sunny;1;-12;38;NNE 4;1029;11;;2022-1-1;Seoul
+16:00;;Mostly Cloudy;0;-6;64;NW 9;1026;7;;2022-2-1;Seoul
+16:00;;Partly Cloudy;10;-1;47;W 15;1013;48;;2022-3-1;Seoul
+16:00;;Mostly Sunny;14;-4;29;W 20;1028;11;;2022-4-1;Seoul
+16:00;;Mostly Sunny;18;2;34;WSW 28;1011;11;;2022-5-1;Seoul
+16:00;;Mostly Sunny;26;6;28;WNW 19;1004;11;;2022-6-1;Seoul
+16:00;;Partly Cloudy;30;23;66;WSW 17;1014;48;;2022-7-1;Seoul
+23:36;;Mostly Cloudy with Thunderstorms;29;24;74;ESE 7;1005;48;;2022-8-1;Seoul
+16:00;;Mostly Sunny;29;18;52;NW 15;1013;10;0.0;2022-9-1;Seoul

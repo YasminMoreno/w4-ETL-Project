@@ -1,0 +1,10 @@
+Hour;Borrar;Climate;Temp;Dew Point;Humidity;Winds;Pressure;Visibility;Precip;date_weather;city_weather
+16:20;;Mostly Cloudy;14;10;77;SW 15;1016;48;;2022-1-1;London
+16:20;;Partly Cloudy;14;6;59;W 30;1020;48;;2022-2-1;London
+16:20;;Cloudy with Light Rain;8;7;93;ENE 15;1025;9;;2022-3-1;London
+16:20;;Partly Cloudy with Light Rain;5;-1;66;ENE 24;1018;48;;2022-4-1;London
+16:20;;Mostly Cloudy;14;6;59;VRB 13;1022;48;;2022-5-1;London
+16:20;;Mostly Sunny;17;6;49;W 9;1018;48;;2022-6-1;London
+16:20;;Mostly Sunny;21;7;40;SW 20;1017;48;;2022-7-1;London
+16:20;;Partly Cloudy;25;15;54;E 17;1017;48;;2022-8-1;London
+16:20;;Sunny;23;12;50;E 26;1018;10;0.0;2022-9-1;London
