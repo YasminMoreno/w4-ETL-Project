@@ -23,13 +23,21 @@ Posteriormente crearemos unas preguntas y las contestaremos mediante queries par
 ## Procedimiento
 
 1. Preparamos la idea que vamos a desarrollar. En este caso vamos a descubrir cuales son las canciones mas escuchadas en diferentes países y compararlo con área gegráfica y clima del lugar.  
+
 2. Extraemos varios csv de la web `https://charts.spotify.com/home` en total 10 países para crear la tabla `top_mundial_spotify`.
+
 3. Extraemos mediante web scraping con BeautifulSoup de la web `https://catking.in/list-of-countries-capitals-currencies-of-the-world/` para hacer la tabla de `countries`las diferentes capitales y píases del mundo. 
+
 4. Extraemos la tercera fuente mediante web scraping con BeautifulSoup de la web `https://www.aerisweather.com/weather` para crear la tabla `weather`.
+
 5.Limpiamos en diferentes jupyters cada una de las tablas que queremos hacer.
+
 6.hacemos una cuarta tabla llamada `countryweather` para posteriormente poder unir countries y weather.
+
 7. Exportamos todos los csv convertidos a xls a MySQL Workbench y creamos el database `spotiweather` con sus Primeray Keys y Foreing Keys. Todo ello creado mediante python,  por si en un futuro queremos rectificar alguna tabla para que nos sea más sencillo a la hora de ejecutar.
+
 8. Una vez exportado el database creamos la EER.
+
 9. Por último escribimos las preguntas a las que queremos contestar y creamos las queries en SQL.
 
 
@@ -37,10 +45,15 @@ Posteriormente crearemos unas preguntas y las contestaremos mediante queries par
 ## Entregables
 
 1. En la carpeta data archivo `spotiweather_SQL.ipynb` con los csv ya limpios y dividido en 4 tablas con sus primary keys y foreing keys. 
+
 2. Carpeta `countries` archivo `List_Countries_Scrapped.ipynb` con la limpieza de la tabla countries.
+
 3.Carpeta `countryweather` archivo `countryweather.ipynb` con la limpieza de la tabla countryweather.
+
 4.Carpeta `weather` archivos `weather.ipynb` con la limpieza de cada país por separado para la tabla weather.
+
 5.Carpeta `spotify` archivo `Tabla_Spotify.ipynb` con la limpieza de los csv de los diferentes países para la tabla top_mundial_spotify.
+
 6. Archivo `Spotiweather SQL.png` con la imagen del EER creado.
 
 
